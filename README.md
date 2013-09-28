@@ -1,3 +1,4 @@
+@xinyuan
 YouCompleteMe: a code-completion engine for Vim
 ===============================================
 
